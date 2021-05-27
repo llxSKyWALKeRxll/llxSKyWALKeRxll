@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **llxSKyWALKeRxll/llxSKyWALKeRxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there!  
+My name is Vansh Pratap Singh.  
+I really enjoy coding and find it really intriguing because I know as to how wide and deep the scope of this field truly is, and it would take a lot of hard work, dedication, discipline and consistency to gain mastery in this field, which I am willing to do.  
+I am a highly motivated, disciplined and enthusiastic learner, and am willing to go above and beyond to get what I want.   
+I absolutely love challenges and am always looking forward to expand my knowledge.  
+I am currently pursuing my Bachelor's degree in Computer Science Engineering from a college in Punjab, India.  
+Feel free to reach out to me. Have a great day and keep smiling! =)
