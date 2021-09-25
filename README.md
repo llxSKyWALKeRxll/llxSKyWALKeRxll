@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![chonkoonSpinning](https://user-images.githubusercontent.com/79057173/134763095-8ca2866c-2fe9-4cbb-a70a-221259f90f18.gif)  
+
+
 ### Hey there!  
 My name is Vansh Pratap Singh.  
 I really enjoy coding and find it really intriguing because I know as to how wide and deep the scope of this field truly is, and it would take a lot of hard work, dedication, discipline and consistency to gain mastery in this field, which I am willing to do.  
