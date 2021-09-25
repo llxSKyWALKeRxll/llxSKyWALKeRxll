@@ -22,5 +22,5 @@ I really enjoy coding and find it really intriguing because I know as to how wid
 I am a highly motivated, disciplined and enthusiastic learner, and am willing to go above and beyond to get what I want.   
 I absolutely love challenges and am always looking forward to expand my knowledge.  
 I am currently pursuing my Bachelor's degree in Computer Science Engineering from a college in Punjab, India.  
-Feel free to reach out to me. Have a great day and keep smiling! =)
+Feel free to reach out to me. Have a great day and keep smiling! =)  
 Email id: 19bcs2190@gmail.com
