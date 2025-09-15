@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer who is into competitive programming and development from India</h3>
 
 - 📫 How to reach me **vanshispratap@gmail.com**
-- My portfolio: **https://vps-portfolio.netlify.app/**
+- My portfolio: **https://www.vanshpratapsingh.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
